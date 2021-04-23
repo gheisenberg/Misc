@@ -1,5 +1,5 @@
-# MiscPython
-This repository contains little helper scripts that can be useful from time to time. 
+# Misc
+This repository contains little helper scripts or other sources that can be useful from time to time or which are too small to get an own repo.
 
 The list of contents is:
 
